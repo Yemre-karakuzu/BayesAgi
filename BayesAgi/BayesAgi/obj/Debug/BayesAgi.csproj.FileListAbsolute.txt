@@ -1,0 +1,7 @@
+C:\Users\EMRE\source\repos\BayesAgi\BayesAgi\bin\Debug\BayesAgi.exe.config
+C:\Users\EMRE\source\repos\BayesAgi\BayesAgi\bin\Debug\BayesAgi.exe
+C:\Users\EMRE\source\repos\BayesAgi\BayesAgi\bin\Debug\BayesAgi.pdb
+C:\Users\EMRE\source\repos\BayesAgi\BayesAgi\obj\Debug\BayesAgi.csprojAssemblyReference.cache
+C:\Users\EMRE\source\repos\BayesAgi\BayesAgi\obj\Debug\BayesAgi.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\source\repos\BayesAgi\BayesAgi\obj\Debug\BayesAgi.exe
+C:\Users\EMRE\source\repos\BayesAgi\BayesAgi\obj\Debug\BayesAgi.pdb
